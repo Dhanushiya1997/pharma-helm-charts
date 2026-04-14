@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ""
+  repository: "dhanushiya1997"
   tag: "latest"
   pullPolicy: IfNotPresent
 
